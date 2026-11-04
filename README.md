@@ -1,4 +1,4 @@
-# Booking-dataset-samples
+# Booking 数据集样本
 
 <h2>包含 1001 条 Booking 房源信息的示例数据集</h2>
 
